@@ -7,11 +7,23 @@ It also includes gradient checking to verify correctness of the backpropagation 
 
 Project structure
 ├── data/                         # Dataset storage
+
+
 ├── Model.py                      # Core neural network implementation (from scratch)
+
+
 ├── utils.py                      # Helper functions (data handling, visualization, etc.)
+
+
 ├── binary_classification.ipynb   # Binary classification experiments
+
+
 ├── image_classification.ipynb    # Image classification experiments
+
+
 ├── grad_check.ipynb              # Gradient checking notebook
+
+
 ├── pytorch_test.ipynb            # PyTorch comparison / validation
 
 
