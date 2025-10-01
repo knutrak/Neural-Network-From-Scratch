@@ -1,0 +1,6 @@
+# Ignore Python cache and venv
+__pycache__/
+.venv/
+
+# Ignore PDF reports
+*.pdf
