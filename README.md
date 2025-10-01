@@ -5,14 +5,20 @@ The work covers the fundamentals of neural networks, including forward propagati
 
 It also includes gradient checking to verify correctness of the backpropagation implementation and a comparison with PyTorch for benchmarking.
 
-Project structure
+Project structure:
 
 ├── data/                         # Dataset storage
+
 ├── Model.py                      # Core neural network implementation (from scratch)
+
 ├── utils.py                      # Helper functions (data handling, visualization, etc.)
+
 ├── binary_classification.ipynb   # Binary classification experiments
+
 ├── image_classification.ipynb    # Image classification experiments
+
 ├── grad_check.ipynb              # Gradient checking notebook
+
 ├── pytorch_test.ipynb            # PyTorch comparison / validation
 
 
